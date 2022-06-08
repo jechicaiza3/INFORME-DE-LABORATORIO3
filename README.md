@@ -7,7 +7,7 @@
 
 Nombres : Maicon Caisaguano, Jefferson Chicaiza, Steven Lopez 
 
-NRC: 10133
+NRC: 7309
 
 ***Objetivo General***
 
