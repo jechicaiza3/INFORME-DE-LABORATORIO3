@@ -21,7 +21,7 @@ NRC: 10133
 
 **2.MARCO TEORICO**
 
-![image](https://user-images.githubusercontent.com/94098157/144469741-87727aad-907b-4ed0-9204-1fd5a3f6d395.png)
+![image](https://user-images.githubusercontent.com/84757114/172504113-aada31e6-8fd8-4bac-816d-7d5f4555563c.png)
 
 **3.MATERIAL Y EQUIPO REQUERIDO**
 
@@ -55,18 +55,21 @@ De la misma manera, la medición del voltaje en el  segundo nodo principal nos d
 *Calculos del voltaje por el método de tensiones en los nodos*
 
 ![image](https://user-images.githubusercontent.com/84757114/172441809-28715ca3-9bcd-4b8f-8cd0-40637d8df7f6.png)
+
 Primeramente se identifican los nodos principales, el nodo de referencia y el sentido de la corriente, además se toma en cuenta que todas las corrientes de los nodos salen.    
 
-![image](https://user-images.githubusercontent.com/94098157/144364085-a49e2ae1-ce34-4c7c-a3ec-2039b75cbce5.png)
+![image](https://user-images.githubusercontent.com/84757114/172501505-fed80596-68f3-4956-98bc-967aad312c45.png)
 
 Por lo tanto, la sumatoria de todas las corrientes que salen del nodo son iguales a cero. Al formarse una igualdad se debe establecer que dichas corrientes son iguales  al voltaje sobre la resistencia en base a la ley de ohm, por lo que se forman dos ecuaciones en función a los dos voltajes que quieren calcular. Dichas ecuaciones se las puede resolver mediante una calculadora de Sistemas ecuaciones lineales en este caso se utilizó symbolab en donde X=V 1 y Y=V2.
 
-![image](https://user-images.githubusercontent.com/84757114/172436780-95180650-6083-4291-9008-ae3276a55db8.png)
+![image](https://user-images.githubusercontent.com/84757114/172502709-c02c2f15-b934-46a9-8b23-d0b8a1227e3c.png)
 
+Como respuesta tenemos:
+![image](https://user-images.githubusercontent.com/84757114/172502653-10ae2203-1bd3-45d4-bc11-2ccf5dc6da6c.png)
 
 Pues si bien un resultado nos da negativo es importante mencionar que solo se tomó la  dirección de salida de la corriente para ambos nodos principales 
 
-![image](https://user-images.githubusercontent.com/94098157/144470907-6248c683-69a2-4d49-ae44-b715da1a2beb.png)
+![image](https://user-images.githubusercontent.com/84757114/172502874-9a8cc516-693c-4e86-9fee-568cd4aba1a5.png)
 
 *4. Compare los valores de la tabla 3.1 y realice sus conclusiones.*
 
@@ -76,10 +79,11 @@ Pues si bien un resultado nos da negativo es importante mencionar que solo se to
 
 La comprobación de todos los valores de voltaje en los nodos principales por medio de la práctica, el cálculo y una simulación nos arrojaron valores muy similares entre ellos, por lo que la tensión en los nodos del circuito fueron obtenidos de manera correcta.
 
+![image](https://user-images.githubusercontent.com/84757114/172503912-242d8978-edfa-4c37-9ca4-3f52a31b2ea1.png)
 
 **6. VIDEO:**
 
-https://www.youtube.com/watch?v=yifDJoK_LgQ
+https://youtu.be/x0atHrLqt2w
 
 **7. CONCLUSIONES**
 - Tener los conceptos claros en lo que ue se refiere a corriente y al definición de un nodo principal y de referencia nos ayudó a medir de forma precisa los diferentes voltajes que pasan por los nodos. 
@@ -92,3 +96,5 @@ https://www.youtube.com/watch?v=yifDJoK_LgQ
 Floyd, T. (2007). *Principios de circuitos electricos* (Ed. 8va). Pearson EDUCATION.
 
 Khan. (2015).*Khan Academy Las Leyes de Kirchhoff*. https://es.khanacademy.org/science/physics/circuits-topic/circuits-resistance/a/ee-kirchhoffs-laws
+
+https://es.symbolab.com/solver/calculus-calculator/%F0%9D%91%99%F0%9D%91%96%F0%9D%91%9A%20%F0%9D%91%A5%E2%86%922%5Cfrac%7Bsen%5Cleft(x%5Cright)-sen%5Cleft(x%5Cright)%7D%7Bx-a%7D
