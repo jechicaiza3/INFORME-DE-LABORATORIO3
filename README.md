@@ -5,7 +5,7 @@
 
 **FUNDAMENTOS DE CIRCUITOS ELECTRICOS**
 
-Nombres : Martin Coronel, Jefferson Chicaiza, Tito Obando 
+Nombres : Maicon Caisaguano, Jefferson Chicaiza, Steven Lopez 
 
 NRC: 10133
 
@@ -39,7 +39,9 @@ Primeramente se muestra el circuito realizado en el simulador tinkercad en el qu
 *2. Mida el voltaje y corriente en cada uno de los elementos del circuito. Anote los resultados de las mediciones en la tabla 1.1.*
 
 ![image](https://user-images.githubusercontent.com/84757114/172437721-6ef51291-7ede-4aa1-991e-f8d124277ee7.png)
+** La razon por la que el valor nos da en negativo es por la cual el multimetro al medir  sus lados son opuestos por ende va a dar un valor negativo.
 Aquí se muestra la respectiva medición del voltaje en el primer nodo principal  con respecto al nodo de referencia en el que marca  el valor de 1.67 voltios. 
+
 
 ![image](https://user-images.githubusercontent.com/84757114/172437922-4901f847-e88f-47fe-ac67-befe273f3da7.png)
 De la misma manera, en la medición del  segundo nodo principal se marca un valor de 5.39 voltios, es importante mencionar que el nodo de referencia se lo puede conectar en cualquier parte en donde actúe dicho nodo.
@@ -47,9 +49,11 @@ De la misma manera, en la medición del  segundo nodo principal se marca un valo
 *3. Simule en el software Multisim, Proteus, o cualquier otro simulador, el circuito de la figura 3.1, obteniendo los valores de los voltajes de nodo. Anote los resultados en la tabla 3.1.*
 
 ![image](https://user-images.githubusercontent.com/84757114/172440338-6726437b-3c0c-4197-bcf5-0b7f130c439e.png)
+
 En cuanto al circuito creado en multisim online se realizó la respectiva medición del primer nodo principal con respecto al nodo de referencia, dando como resultado 1.66 volteos 
 
 ![image](https://user-images.githubusercontent.com/84757114/172440628-23338a6e-9784-45bd-bcad-ce5ed4538335.png)
+
 De la misma manera, la medición del voltaje en el  segundo nodo principal nos da un valor de 5.38 voltios con respecto al nodo de referencia.
 
 *Calculos del voltaje por el método de tensiones en los nodos*
